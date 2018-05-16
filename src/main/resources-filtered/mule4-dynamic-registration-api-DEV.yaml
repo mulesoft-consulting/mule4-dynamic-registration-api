@@ -1,6 +1,6 @@
 #configuration elements for local environment
 api:
-  id: "xx"
+  id: "12983275"
   base: "${project.artifactId}"
   port: "${instance.id}"
   securePort: "${instance.id}"
@@ -25,4 +25,3 @@ serviceRegistry:
   base: "/eureka/v2/apps"
   heartbeatMS: "30000"
   timeoutMS: "30000"
-  
