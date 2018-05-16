@@ -1,5 +1,6 @@
 # mule4-skeleton-system-api
 With micro-services, a dynamic service registry is used to publish micro-service availability to applications that need to use the service. Multiple instances of the same micro-service each register themselves to the service registry as they start. 
+
 Similarly, the micro-service instance registers their unavailability when the instance stops.  
 This is a Mule 4.1 example of an API using API Management and dynamic API registration using the Eureka REST API as the interface to a dynamic service registry. 
 
