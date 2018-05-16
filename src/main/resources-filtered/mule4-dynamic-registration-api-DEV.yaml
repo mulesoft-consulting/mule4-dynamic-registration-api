@@ -1,6 +1,6 @@
 #configuration elements for local environment
 api:
-  id: "12983275"
+  id: "12983200"
   base: "${project.artifactId}"
   port: "${instance.id}"
   securePort: "${instance.id}"
